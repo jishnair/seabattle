@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/seabattle.iml" filepath="$PROJECT_DIR$/seabattle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/.jvm-seabattle-shared.iml" filepath="$PROJECT_DIR$/.idea/modules/.jvm-seabattle-shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/frontend.iml" filepath="$PROJECT_DIR$/.idea/modules/frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seabattle.iml" filepath="$PROJECT_DIR$/.idea/modules/seabattle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seabattle-build.iml" filepath="$PROJECT_DIR$/.idea/modules/seabattle-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seabattle-client.iml" filepath="$PROJECT_DIR$/.idea/modules/seabattle-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seabattle-jvm.iml" filepath="$PROJECT_DIR$/.idea/modules/seabattle-jvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seabattle-shared.iml" filepath="$PROJECT_DIR$/.idea/modules/seabattle-shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seabattle-sources.iml" filepath="$PROJECT_DIR$/.idea/modules/seabattle-sources.iml" />
     </modules>
   </component>
 </project>

@@ -2,5 +2,24 @@
 <project version="4">
   <component name="ScalaSbtSettings">
     <option name="customVMPath" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/frontend" />
+            <option value="$PROJECT_DIR$/project" />
+            <option value="$PROJECT_DIR$/seabattle/client" />
+            <option value="$PROJECT_DIR$/seabattle/server" />
+            <option value="$PROJECT_DIR$/seabattle/shared" />
+            <option value="$PROJECT_DIR$/seabattle/shared/.js" />
+            <option value="$PROJECT_DIR$/seabattle/shared/.jvm" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.2.8" />
+        <option name="useAutoImport" value="true" />
+      </SbtProjectSettings>
+    </option>
   </component>
 </project>
